@@ -1,0 +1,13 @@
+C:\Dev\CSharpSocketsPlayground\Client\bin\Debug\netcoreapp3.1\Client.exe
+C:\Dev\CSharpSocketsPlayground\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+C:\Dev\CSharpSocketsPlayground\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+C:\Dev\CSharpSocketsPlayground\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+C:\Dev\CSharpSocketsPlayground\Client\bin\Debug\netcoreapp3.1\Client.dll
+C:\Dev\CSharpSocketsPlayground\Client\bin\Debug\netcoreapp3.1\Client.pdb
+C:\Dev\CSharpSocketsPlayground\Client\obj\Debug\netcoreapp3.1\Client.csprojAssemblyReference.cache
+C:\Dev\CSharpSocketsPlayground\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+C:\Dev\CSharpSocketsPlayground\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+C:\Dev\CSharpSocketsPlayground\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+C:\Dev\CSharpSocketsPlayground\Client\obj\Debug\netcoreapp3.1\Client.dll
+C:\Dev\CSharpSocketsPlayground\Client\obj\Debug\netcoreapp3.1\Client.pdb
+C:\Dev\CSharpSocketsPlayground\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
