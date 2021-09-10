@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Storm\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Storm\\.nuget\\packages"
+    ]
+  }
+}

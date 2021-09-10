@@ -1,0 +1,13 @@
+C:\Dev\CSharpSocketsPlayground\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.exe
+C:\Dev\CSharpSocketsPlayground\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.deps.json
+C:\Dev\CSharpSocketsPlayground\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.runtimeconfig.json
+C:\Dev\CSharpSocketsPlayground\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.runtimeconfig.dev.json
+C:\Dev\CSharpSocketsPlayground\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.dll
+C:\Dev\CSharpSocketsPlayground\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.pdb
+C:\Dev\CSharpSocketsPlayground\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.csprojAssemblyReference.cache
+C:\Dev\CSharpSocketsPlayground\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.AssemblyInfoInputs.cache
+C:\Dev\CSharpSocketsPlayground\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.AssemblyInfo.cs
+C:\Dev\CSharpSocketsPlayground\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.csproj.CoreCompileInputs.cache
+C:\Dev\CSharpSocketsPlayground\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.dll
+C:\Dev\CSharpSocketsPlayground\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.pdb
+C:\Dev\CSharpSocketsPlayground\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.genruntimeconfig.cache

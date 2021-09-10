@@ -1,0 +1,13 @@
+C:\Dev\CSharpSocketsPlayground\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csprojAssemblyReference.cache
+C:\Dev\CSharpSocketsPlayground\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.AssemblyInfoInputs.cache
+C:\Dev\CSharpSocketsPlayground\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.AssemblyInfo.cs
+C:\Dev\CSharpSocketsPlayground\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csproj.CoreCompileInputs.cache
+C:\Dev\CSharpSocketsPlayground\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.exe
+C:\Dev\CSharpSocketsPlayground\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.deps.json
+C:\Dev\CSharpSocketsPlayground\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.runtimeconfig.json
+C:\Dev\CSharpSocketsPlayground\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.runtimeconfig.dev.json
+C:\Dev\CSharpSocketsPlayground\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.dll
+C:\Dev\CSharpSocketsPlayground\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.pdb
+C:\Dev\CSharpSocketsPlayground\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.dll
+C:\Dev\CSharpSocketsPlayground\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.pdb
+C:\Dev\CSharpSocketsPlayground\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.genruntimeconfig.cache
